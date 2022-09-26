@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, PHP, Flutter**
 
-- 👯 I’m looking to collaborate **As an Intern with Open Source Projects**
+- 👯 I’m looking to collaborate **As an Intern**
 
 - 📫 How to reach me **ojibona1@gmail.com**
 
