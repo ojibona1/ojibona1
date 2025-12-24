@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jibona Odunayo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **E-Commerce Web App**
 
-- 🌱 I’m currently learning **ReactJs, PHP, Flutter**
+- 🌱 I’m currently learning **ReactJs, PHP, RectNative with expo**
 
-- 👯 I’m looking to collaborate **As an Intern**
+- 👯 I’m looking to collaborate **As a Team member**
 
 - 📫 How to reach me **ojibona1@gmail.com**
 
