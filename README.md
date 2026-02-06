@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jibona Odunayo</h1>
-<h3 align="center">A passionate  Fullstack Javascript developer from Nigeria</h3>
+<h3 align="center">A Passionate  Fullstack Software Engineer from Nigeria</h3>
 
 - 🔭 I’m currently working on **Decentralised Cryptocurrency App**
 
-- 🌱 I’m currently using **ReactJs, ReactNative, Javascript**
+- 🌱 I’m currently using **ReactJs, ReactNative, Javascript, Express, MongoDB, Redux**
 
 - 👯 I’m looking to collaborate **As a Team member**
 
