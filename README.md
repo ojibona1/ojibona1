@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibona Odunayo</h1>
-<h3 align="center">A Passionate  Fullstack Software Engineer from Nigeria</h3>
+<h3 align="center">A Passionate  Fullstack Software Engineer</h3>
 
 - 🔭 I’m currently working on **Decentralised Cryptocurrency App**
 
