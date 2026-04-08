@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odunayo Jibona</h1>
-<h3 align="center">Full Stack Software Engineer · Fintech & Blockchain · Lagos, Nigeria</h3>
+<h3 align="center">Full Stack Software Engineer · Fintech & Blockchain · Remote, Globally</h3>
 
 <p align="center">
   Innovative engineer with deep expertise in building scalable fintech and blockchain applications. 
