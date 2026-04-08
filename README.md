@@ -12,7 +12,6 @@
 - 💼 I've shipped a **full-featured fintech investment platform** (Ascent Capital) with Stripe & JWT
 - 🌱 Currently working with **React 19, TypeScript, Next.js, Node.js, Web3, Three.js**
 - 🤝 Open to collaborating on **fintech, blockchain, or high-impact fullstack projects**
-- 📄 View my resume: [https://bit.ly/3R1Yr36](https://bit.ly/3R1Yr36)
 - 📫 Reach me at: **ojibona1@gmail.com**
 - ⚡ Fun fact: **Always curious, always building**
 
