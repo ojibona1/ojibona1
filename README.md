@@ -27,6 +27,7 @@
 <a href="https://www.linkedin.com/in/odunayo-jibona-a94ab9227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odunayo jibona" height="30" width="40" /></a>
 <a href="https://www.instagram.com/realayo_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realayo_" height="30" width="40" /></a>
 <a href="https://x.com/therealayo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealayo_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61590982342202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="odunayo jibona" height="30" width="40" /></a>
 </p>
 
 ---
