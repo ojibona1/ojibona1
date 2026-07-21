@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odunayo Jibona</h1>
-<h3 align="center">Founder & CTO · DevBlock Technologies · AI-Native Infrastructure · Cloudflare Stack</h3>
+<h3 align="center">Founder & CTO · DevBlock Technologies · AI-Native Infrastructure </h3>
 
 <p align="center">
   Building the missing middleware layer between frontier AI models and real-world business operations.
