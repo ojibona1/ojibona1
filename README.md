@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Fullstack Software Engineer at **DevBlock Technologies Limited** — AI-native software company
+- 🔭 Fullstack Software Engineer at **DevBlock Technology Limited** — AI-native software company
 - 🚀 Building **MesageAI** — multi-channel business AI platform (WhatsApp, Telegram, web) powered by autonomous agent teams
 - 🧠 Building **Sage Inference** — unified AI inference gateway powering all DevBlock systems (16+ consumer projects)
 - 🏗️ Built **DevBlock Console** — self-service agency platform for client management, billing, and project scaffolding
