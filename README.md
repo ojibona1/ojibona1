@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Software Engineer · Founder, DevBlock Technologies</h3>
 
 <p align="center">
-  I build systems — not just apps. My work sits at the intersection of software engineering,
+  I build systems. My work sits at the intersection of software engineering,
   infrastructure design, and applied AI: figuring out how frontier models actually plug into
   the messy reality of businesses, payments, and connectivity, especially in markets that get
   overlooked by mainstream tooling.
