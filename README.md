@@ -54,7 +54,7 @@ changes what a small team can responsibly take on.
 <a href="https://www.facebook.com/profile.php?id=61590982342202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="odunayo jibona" height="30" width="40" /></a>
 </p>
 
-📫 **ojibona1@gmail.com**
+<p align="center">📫 **ojibona1@gmail.com**</p>
 
 <p align="center">
   <i>Systems thinker. Builder. Trying to make sure African markets aren't an afterthought in the AI era.</i>
