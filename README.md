@@ -33,12 +33,7 @@ reliability, cost, and scale.
 ### 🚀 What I'm building
 
 - **MesageAI** — a multi-channel business AI platform that gives businesses autonomous AI agents across WhatsApp, Telegram, and web chat
-- **Sage Inference** — an inference gateway unifying chat, image, voice, and video AI behind one interface for our entire product portfolio
 - **DevBlock Console** — a self-service platform for managing clients, projects, and billing
-- **PayIQ** — a payments and banking infrastructure platform
-- **Stargate** — a Starlink-based ISP project bringing frictionless internet access to underserved areas in Nigeria
-- **AI University** — a training platform where students learn by building and earn from what they build
-- **Hybrid Travels** — a luxury travel booking platform with member tiers and a full admin/booking system
 
 ---
 
