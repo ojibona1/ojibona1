@@ -12,12 +12,12 @@
 
 ### 👋 A bit about me
 
-I'm a fullstack engineer who ended up founding a company because I kept running into problems
+I'm a Full-stack Software Engineer who kept running into problems
 nobody had built the right tools for yet. I care about architecture that holds up under real
 usage, not just demos — and about building things in and for Africa that don't feel like an
 afterthought of tools built elsewhere.
 
-I lead **DevBlock Technologies**, where I work with a small, high-leverage team (human + AI
+I lead at **DevBlock Technology Limited**, where I work with a small, high-leverage team (human + AI
 specialists) across engineering, design, infrastructure, security, and growth to ship a
 portfolio of products faster than a team our size normally could. My day-to-day ranges from
 backend architecture and distributed systems design, to payments and financial infrastructure,
