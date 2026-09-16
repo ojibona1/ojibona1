@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odunayo Jibona</h1>
-<h3 align="center">Fullstack Software Engineer · Founder, DevBlock Technologies</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 
 <p align="center">
   I build systems. My work sits at the intersection of software engineering,
