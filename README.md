@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 A bit about me
+### A bit about me
 
 I'm a Full-stack Software Engineer who kept running into problems
 nobody had built the right tools for yet. I care about architecture that holds up under real
@@ -30,14 +30,14 @@ reliability, cost, and scale.
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 - **MesageAI** — a multi-channel business AI platform that gives businesses autonomous AI agents across WhatsApp, Telegram, and web chat
 - **DevBlock Console** — a self-service platform for managing clients, projects, and billing
 
 ---
 
-### 🧠 How I work
+### How I work
 
 I think of engineering as a craft that includes judgment, not just syntax — knowing when to
 build vs. buy, when to optimize vs. ship, when to automate vs. do it by hand. I lean heavily
