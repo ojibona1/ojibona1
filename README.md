@@ -51,5 +51,5 @@ wonderful.
 <p align="center">📫 ayo@devblocktechnologies.com</p>
 
 <p align="center">
-  <i>Systems thinker. Builder. Trying to make sure African markets aren't an afterthought in the AI era.</i>
+  <i>Systems thinker. Builder.</i>
 </p>
