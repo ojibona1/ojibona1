@@ -27,7 +27,7 @@ reliability, cost, and scale.
 
 ### What I'm building
 
-- **DevBlock Ottral** — AI-native Cloud Organizations Operating System.
+- **DevBlock Ottral** — AI-native Cloud Enterprise Operating System.
 
 ---
 
