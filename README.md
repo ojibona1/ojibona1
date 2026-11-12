@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odunayo Jibona</h1>
-<h3 align="center">Fullstack Software Engineer | Cloud Engineer | ML & AI Developer</h3>
+<h3 align="center">Software Engineer | Cloud Engineer | ML & AI Developer</h3>
 
 <p align="center">
   I build systems. My work sits at the intersection of software engineering,
@@ -12,16 +12,11 @@
 
 ### A bit about me
 
-I'm a Full-stack Software Engineer who kept running into problems
+I'm a Software Engineer who kept running into problems
 nobody had built the right tools for yet. I care about architecture that holds up under real
 usage, not just demos — and about building things in and for Africa that don't feel like an
 afterthought of tools built elsewhere.
 
-I lead at **DevBlock Technology Limited**, where I work with a small, high-leverage team (human + AI
-specialists) across engineering, design, infrastructure, security, and growth to ship a
-portfolio of products faster than a team our size normally could. My day-to-day ranges from
-backend architecture and distributed systems design, to payments and financial infrastructure,
-to product thinking and mentoring the people I work with.
 
 I'm broadly a **cloud and systems engineer** — I've done deep work across serverless and edge
 computing, but also containers, databases, networking, and traditional cloud architectures.
@@ -32,17 +27,16 @@ reliability, cost, and scale.
 
 ### What I'm building
 
-- **MesageAI** — a multi-channel business AI platform that gives businesses autonomous AI agents across WhatsApp, Telegram, and web chat
-- **DevBlock Ottral** — a self-service platform for managing clients, projects, and billing
+- **DevBlock Ottral** — AI-native Cloud Organizations Operating System.
 
 ---
 
 ### How I work
 
-I think of engineering as a craft that includes judgment, not just syntax — knowing when to
+I think of engineering as a craft that includes judgment, knowing when to
 build vs. buy, when to optimize vs. ship, when to automate vs. do it by hand. I lean heavily
 into AI-assisted and AI-native workflows, not because it's trendy, but because it genuinely
-changes what a small team can responsibly take on.
+wonderful.
 
 ---
 
