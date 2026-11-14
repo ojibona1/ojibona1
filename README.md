@@ -12,7 +12,7 @@
 
 ### A bit about me
 
-I'm a Software Engineer who kept running into problems
+I'm a software engineer who kept running into problems
 nobody had built the right tools for yet. I care about architecture that holds up under real
 usage, not just demos — and about building things in and for Africa that don't feel like an
 afterthought of tools built elsewhere.
